@@ -1,0 +1,36 @@
+header {
+  position: absolute;
+  width: 100%;
+  height: 300px;
+  top: 0;
+  left: 0;
+}
+.logo {
+  position: absolute;
+  top: 25%;
+  left: 15%;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.left-column {
+  background-color: #b3ecff;
+  position: absolute;
+  width: 25%;
+  bottom: 15%;
+  margin-left: 10%;
+}
+.right-column {
+  background-color: #ff9966;
+  position: absolute;
+  width: 50%;
+  bottom: 25%;
+  right: 0;
+  top: 40%;
+}
+.lower-corner {
+  background-color: #666699;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
